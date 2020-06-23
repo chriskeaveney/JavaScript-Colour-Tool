@@ -1,0 +1,47 @@
+h1 {
+  margin-top: 55px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.p5Canvas {
+  /* margin-left: auto !important;
+  margin-right: auto !important;
+  text-align: center !important;
+  display: flex !important; */
+  outline: gray 1px solid;
+  margin-left: 95px;
+  margin-bottom: 150px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 600px;
+
+  padding-left: 10px;
+}
+
+.row {
+  padding-left: 100px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+p {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 25px;
+}

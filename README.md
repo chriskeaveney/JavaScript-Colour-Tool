@@ -22,4 +22,4 @@ This project was based on the Homage to the Square, a piece by Albers which was 
 and other artists to approach and study color experimentally. This tool also allows the user to do this by
 altering the hue saturation & boldness sliders, clicking to randomise colours or move the mouse to alter the border thickness.
 
-![](Colour%20Tool/images/1b.png)
+![](Colour%20Tool/images/Albers.gif)
